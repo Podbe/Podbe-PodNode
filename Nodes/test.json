@@ -1,0 +1,169 @@
+{
+  "status": "ok",
+  "post": {
+    "slug": "podunion-magazin",
+    "url": "http:\/\/podbe.de\/podunion-magazin\/",
+    "title": "Magazin",
+    "id": 841,
+    "podcast": [
+      {
+        "podcast_subtitle": "Redaktion Magazin",
+        "podcast_description": "Im PodUnion Podcast Magazin sprechen Martin, Raiden, Rico und Toby regelmaessig \u00fcber aktuelle Themen rund um das Podcasting und die Podcast Szene.",
+        "podcast_cover": "http:\/\/podunion.com\/logo\/Logo-Podcast-Magazin-1400.jpg",
+        "podcast_url": "http:\/\/podunion.com\/podunion-podcast\/magazin",
+        "podcast_mp3": "http:\/\/www.podtrac.com\/pts\/redirect.mp3\/media.blubrry.com\/podunion\/podunion.com\/podcast\/magazin\/pma017-sueden.mp3",
+        "podcast_lizenzen": "(CC BY-SA 3.0 CH) Creative Commons Namensnennung - <br>Weitergabe unter gleichen Bedingungen 3.0 Schweiz Lizenz",
+        "podcast_close": "on",
+        "podbe_feed": [
+          {
+            "podbe_feed_audio": "Mp3",
+            "podbe_feed_url": "http:\/\/feeds.podtrac.com\/qde-hu4C2yg$"
+          },
+          {
+            "podbe_feed_audio": "M4a",
+            "podbe_feed_url": "http:\/\/feeds.podtrac.com\/qN5JWmlWujs$"
+          }
+        ],
+        "podbe_torrent": [
+          {
+            "podbe_torrent_audio": "Mp3",
+            "podbe_torrent_url": "https:\/\/bitlove.org\/podunion\/podcast-magazin-mp3"
+          },
+          {
+            "podbe_torrent_audio": "M4a",
+            "podbe_torrent_url": "https:\/\/bitlove.org\/podunion\/podcast-magazin-m4a"
+          }
+        ],
+        "podcast_email": "redaktion.magazin@podunion.com",
+        "podcast_flattr": "https:\/\/flattr.com\/profile\/podunion",
+        "podcast_directories_itunes": "https:\/\/itunes.apple.com\/ch\/podcast\/podunion-magazin-podcast-m4a\/id574206913?l=en",
+        "podcast_directories_podcastde": "http:\/\/www.podcast.de\/podcast\/102368\/",
+        "podcast_directories_podlist": "http:\/\/podlist.de\/podcast\/auswahl\/magazin\/",
+        "podcast_project_podunion": "http:\/\/podunion.com\/podkategorien\/podland\/europa\/4301\/magazin",
+        "podcast_project_hoersuppe": "http:\/\/hoersuppe.de\/podcast\/podunion-magazin\/",
+        "podcast_project_reliveradio": "http:\/\/reliveradio.de\/podunionmagazin",
+        "podcast_social_facebook": "http:\/\/www.facebook.com\/PodUnion\/",
+        "podcast_social_twitter": "https:\/\/twitter.com\/PodUnion",
+        "podcast_social_adn": "https:\/\/alpha.app.net\/podunion",
+        "podcast_social_gplus": "https:\/\/plus.google.com\/111336831359961121701",
+        "podcast_social_youtube": "http:\/\/www.youtube.com\/user\/PodUnion",
+        "podbe_user": [
+          {
+            "podbe_user_name": "Martin @pokipsie Rechsteiner",
+            "podbe_user_avatar": "http:\/\/podunion.com\/wordpress\/wp-content\/uploads\/2012\/06\/Martin-Rechsteiner-300.png",
+            "podbe_user_description": "Ein kommunikativer Mensch, der seine Kommunikationsleidenschaft in Blogs, Videos und Podcasts auslebt und mit der grossen weiten online Welt teilt.\r\n<br \/><br \/>\r\nPodcaster bei:<br \/>\r\n- <a title=\"#GeekTalk\" alt=\"Link zur Homepage vom #GeekTalk\"  href=\"http:\/\/geektalk.ch\/\" target=\"_blank\">#GeekTalk.ch<\/a><br \/>\r\n<a title=\"Cafeleak\"  alt=\"Link zur Homepage vom Cafeleak\"  href=\"http:\/\/www.cafeleak.net\/\" target=\"_blank\">- Cafeleak<\/a><br \/>\r\n- <a title=\"Magazin\"  alt=\"Link zur Homepage vom Magazin\"  href=\"http:\/\/podunion.com\/podunion-podcast\/magazin\" target=\"_blank\">Magazin<\/a><br \/>\r\n<a title=\"Pokipsie Network\"  alt=\"Link zur Homepage vom Pokipsie Network\" href=\"https:\/\/www.youtube.com\/user\/pokipsieblog\" target=\"_blank\">- Pokipsie Network<\/a>",
+            "podbe_user_podunion": "http:\/\/podunion.com\/podcaster\/martinrechsteiner\/1965\/martin-rechsteiner",
+            "podbe_user_twitter": "http:\/\/twitter.com\/pokipsie",
+            "podbe_user_adn": "https:\/\/alpha.app.net\/pokipsie",
+            "podbe_user_facebook": "https:\/\/www.facebook.com\/martin.rechsteiner",
+            "podbe_user_xing": "http:\/\/www.xing.com\/profile\/Martin_Rechsteiner",
+            "podbe_user_gplus": "https:\/\/plus.google.com\/103156623293512289044\/posts",
+            "podbe_user_youtube": "http:\/\/www.youtube.com\/pokipsieblog"
+          },
+          {
+            "podbe_user_name": "Rico F. L\u00fcthi",
+            "podbe_user_avatar": "http:\/\/podunion.com\/wordpress\/wp-content\/uploads\/2012\/06\/Rico-Luethi_300.png",
+            "podbe_user_description": "Rico ist nach eigenen Angaben, Podcast und Podcasting s\u00fcchtig. Seit 2006 zieht er jeden Podcast rein, den er in die Finger bekommt. Nach diversen Podcasts, die er gesch\u00e4ftlich wie auch privat produziert, ist er auch der Initiator der PodUnion.\r\n<br \/><br \/>\r\nPodcaster bei:<br \/>\r\n- <a title=\"Das Podcast-Ding\" alt=\"Link zur Homepage von Das Podcast-Ding\"href=\"http:\/\/podunion.com\/podunion-podcast\/das-podcast-ding\"  target=\"_blank\">Das Podcast-Ding<\/a><br \/>\r\n- <a title=\"Magazin\"  alt=\"Link zur Homepage vom Magazin\"  href=\"http:\/\/podunion.com\/podunion-podcast\/magazin\" target=\"_blank\">Magazin<\/a>",
+            "podbe_user_podunion": "http:\/\/podunion.com\/podcaster\/ricofluethi\/1680\/rico-f-luthi",
+            "podbe_user_twitter": "https:\/\/twitter.com\/ricoluethi",
+            "podbe_user_adn": "https:\/\/alpha.app.net\/rfluethi",
+            "podbe_user_facebook": "https:\/\/www.facebook.com\/rfluethi",
+            "podbe_user_xing": "http:\/\/www.xing.com\/profile\/RicoF_Luethi",
+            "podbe_user_gplus": "https:\/\/plus.google.com\/109123041476759470643\/"
+          },
+          {
+            "podbe_user_name": "J\u00f6rg Beckmann",
+            "podbe_user_avatar": "http:\/\/podunion.com\/wordpress\/wp-content\/uploads\/2013\/04\/joergbeckmann_300.png",
+            "podbe_user_description": "Der Bobsonbob hei\u00dft im \u201crichtigen Leben\u201d J\u00f6rg und kommt aus Lemgo in Lippe (bei Bielefeld).\r\nDas der Bobsonbob neben seiner selbst\u00e4ndigen T\u00e4tigkeit als Installateur, sehr viele Hobbys hat,\r\nwird in seinem Podcast deutlich. Dort berichtet \u00fcber all seine Aktivit\u00e4ten (egal ob Berufsleben oder Freizeit).<br \/>\r\nSeine Hobbys sind neben seiner Familie (Frau und Tochter): Ein angepachteter Angelteich, zwei kleine Hunde,<br \/>\r\nMusik machen (Schlagzeug, Gitarre, Gesang), Amateurfunk, Onlinepoker und nat\u00fcrlich die Podcasterei.<br \/>\r\nEs ist also klar, das es hier eine Menge zu erz\u00e4hlen gibt.\r\n<br \/><br \/>\r\nPodcaster bei:<br \/>\r\n- <a title=\"Bobsonbob\" alt=\"Link zur Homepage vom Bobsonbob Podcast\" href=\"http:\/\/bobsonbob.de\/\" target=\"_blank\"> Bobsonbob<\/a><br \/>\r\n- <a title=\"Das Podcast-Ding\" alt=\"Link zur Homepage von Das Podcast-Ding\" href=\"http:\/\/podunion.com\/podunion-podcast\/das-podcast-ding\" target=\"_blank\">Das Podcast-Ding<\/a><br \/>\r\n- <a title=\"Raidenger\" alt=\"Link zur Homepage von Raidenger\"  href=\"http:\/\/raidenger.de\/\" target=\"_blank\">Raidenger<\/a><br \/>\r\n- <a title=\"Magazin\"  alt=\"Link zur Homepage vom Magazin\"  href=\"http:\/\/podunion.com\/podunion-podcast\/magazin\" target=\"_blank\">Magazin<\/a><br \/>",
+            "podbe_user_podunion": "http:\/\/podunion.com\/podcaster\/7059\/jorg-beckmann",
+            "podbe_user_twitter": "https:\/\/twitter.com\/bobsonbob1970",
+            "podbe_user_adn": "https:\/\/alpha.app.net\/bobsonbob\/",
+            "podbe_user_facebook": "https:\/\/flattr.com\/profile\/bobsonbob"
+          },
+          {
+            "podbe_user_name": "Michael McCouman Jr.",
+            "podbe_user_avatar": "http:\/\/podunion.com\/wordpress\/wp-content\/uploads\/2013\/03\/Michael-McCouman_300.png",
+            "podbe_user_description": "Wohnhaft im Th\u00fcringen und mit richtigen Namen Michael Kaufmann, in Eisenach geboren. Sein K\u00fcnstlername: \u201cMichael McCouman Junior\u201d (auch kurz M.C.) ist seiner Musikrichtung und Leidenschaft zur Blues-Harp geschuldet. Er ist Jazz Pianist wie Ton und Studiotechniker und startete schon 2003  seinen ersten Podcast: \u201cKatz frisst Maus \u2013 Das PC Magazin\u201c.\r\n<br \/><br \/>\r\n<b>Podcaster bei:<\/b><br>\r\n- <a title=\"Magazin\"  alt=\"Link zur Homepage vom Magazin\"  href=\"http:\/\/podunion.com\/podunion-podcast\/magazin\" target=\"_blank\">Magazin<\/a>",
+            "podbe_user_podunion": "http:\/\/podunion.com\/podcaster\/6214\/michael-mccouman-jr",
+            "podbe_user_twitter": "https:\/\/twitter.com\/McCouman",
+            "podbe_user_adn": "https:\/\/alpha.app.net\/mccouman",
+            "podbe_user_facebook": "https:\/\/www.facebook.com\/michael.mccouman",
+            "podbe_user_xing": "https:\/\/www.xing.com\/profiles\/Michael_Kaufmann81",
+            "podbe_user_youtube": "http:\/\/www.youtube.com\/user\/c3ltaxmedia"
+          }
+        ],
+        "podcast_project_software": "wordpress",
+        "podcast_publisher_auphonic": "auphonic",
+        "podcast_publisher_podlove": "podlove"
+      }
+    ],
+    "categories": [
+      {
+        "id": 10,
+        "slug": "aufklaerung",
+        "title": "Aufkl\u00e4rung",
+        "description": "",
+        "parent": 11,
+        "post_count": 18
+      },
+      {
+        "id": 11,
+        "slug": "bildung",
+        "title": "Bildung",
+        "description": "",
+        "parent": 0,
+        "post_count": 36
+      },
+      {
+        "id": 34,
+        "slug": "gesellschaft",
+        "title": "Gesellschaft",
+        "description": "",
+        "parent": 0,
+        "post_count": 49
+      },
+      {
+        "id": 54,
+        "slug": "hobbys",
+        "title": "Hobbys",
+        "description": "",
+        "parent": 59,
+        "post_count": 29
+      },
+      {
+        "id": 24,
+        "slug": "marketing",
+        "title": "Marketing",
+        "description": "",
+        "parent": 21,
+        "post_count": 8
+      },
+      {
+        "id": 63,
+        "slug": "podcasting",
+        "title": "Podcasting",
+        "description": "",
+        "parent": 0,
+        "post_count": 98
+      },
+      {
+        "id": 61,
+        "slug": "technologie",
+        "title": "Technologie",
+        "description": "",
+        "parent": 0,
+        "post_count": 29
+      },
+      {
+        "id": 125,
+        "slug": "soundengin",
+        "title": "Tontechnik",
+        "description": "",
+        "parent": 66,
+        "post_count": 6
+      }
+    ]
+  },
+  "previous_url": "http:\/\/podbe.de\/hysterika-der-podcast\/",
+  "next_url": "http:\/\/podbe.de\/cafeleak\/"
+}

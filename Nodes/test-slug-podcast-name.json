@@ -80,6 +80,9 @@
           }
         ],
         "software": "firtz",
+        "software": "wordpress",
+        "software": "podigee",
+        
         "auphonic": "true",
         "podlove": "true"
       }

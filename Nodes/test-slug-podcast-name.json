@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "post": {
+    "slug": "podunion-das-podcast-ding",
+    "url": "http:\/\/localhost:8888\/wordpress-podbe\/podunion-das-podcast-ding\/",
+    "title": "Test: neu",
+    "id": 1,
+    "podcast": [
+      {
+        "subtitle": "Untertitel",
+        "description": "Zusammenfassung",
+        "cover": "http:\/\/www.link-zum-cover.tld\/podcast-cover.png",
+        "url": "http:\/\/podcast-url.tld",
+        "mp3": "http:\/\/podcast-seed.tld\/001.mp3",
+        "licenses": "Lizensname",
+        "licenses-url": "http:\/\/lizensen.tld\/meine-lizenz",
+        "email": "mein@podcast-url.tld",
+        "flattr": "http:\/\/flattr.com\/123\/meine-podcast",
+        "activity": "close",
+        "social": [
+          {
+            "name": "facebook",
+            "url": "https:\/\/facebook.com\/mein-podcast"
+          },
+          {
+            "name": "twitter",
+            "url": "https:\/\/twitter.com\/mein-podcast"
+          },
+          {
+            "name": "googleplus",
+            "url": "https:\/\/google.plus\/1234567890\/mein-podcast"
+          },
+          {
+            "name": "adn",
+            "url": "https:\/\/alpha.app.net\/mein-podcast"
+          },
+          {
+            "name": "youtube",
+            "url": "https:\/\/youtube.com\/12345\/mein-podcastvideo"
+          },
+          {
+            "name": "flickr",
+            "url": "https:\/\/flicker.com\/12345\/meine-bilder"
+          }
+        ],
+        "directories": [
+          {
+            "name": "itunes",
+            "url": "https:\/\/itunes.com\/mein-podcast"
+          },
+          {
+            "name": "podlist",
+            "url": "http:\/\/podlist.de\/mein-podcast"
+          },
+          {
+            "name": "soundcloud",
+            "url": "http:\/\/soundcloud.com\/12345"
+          }
+        ],
+        "projects": [
+          {
+            "name": "podunion",
+            "url": "http:\/\/podunion.com\/mein-podcast"
+          },
+          {
+            "name": "hoersuppe",
+            "url": "http:\/\/hoersuppe.de\/mein-podcast"
+          },
+          {
+            "name": "xenim",
+            "url": "http:\/\/xenim.org\/mein-podcast"
+          },
+          {
+            "name": "reliveradio",
+            "url": "http:\/\/reliveradio.de\/mein-podcast"
+          },
+          {
+            "name": "shownotes",
+            "url": "http:\/\/shownot.es\/mein-podcast"
+          }
+        ],
+        "software": "firtz",
+        "auphonic": "true",
+        "podlove": "true"
+      }
+    ],
+    "podcast_feeds": [
+      {
+        "type": "mp3",
+        "url": "http:\/\/mein-podcast.tld\/feed\/mp3",
+        "standard": [
+          {
+            "type": "m4a",
+            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-aac"
+          },
+          {
+            "type": "alac",
+            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-alac"
+          },
+          {
+            "type": "oga",
+            "url": "http:\/\/mein-podcast.tld\/feed\/oga"
+          },
+          {
+            "type": "ogg",
+            "url": "http:\/\/mein-podcast.tld\/feed\/ogg"
+          },
+          {
+            "type": "webm",
+            "url": "http:\/\/mein-podcast.tld\/feed\/webm"
+          },
+          {
+            "type": "flac",
+            "url": "http:\/\/mein-podcast.tld\/feed\/flac"
+          },
+          {
+            "type": "opus",
+            "url": "http:\/\/mein-podcast.tld\/feed\/opus"
+          },
+          {
+            "type": "mka",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mka"
+          },
+          {
+            "url": "http:\/\/mein-podcast.tld\/feed\/mp3-low"
+          },
+          {
+            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-low"
+          },
+          {
+            "type": "mpg",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mpg-video"
+          },
+          {
+            "type": "mp4",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mp4-video"
+          },
+          {
+            "type": "ogv",
+            "url": "http:\/\/mein-podcast.tld\/feed\/ogg-video"
+          },
+          {
+            "type": "mkv",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mkv-video"
+          },
+          {
+            "type": "epub",
+            "url": "http:\/\/mein-podcast.tld\/feed\/epub"
+          },
+          {
+            "type": "mobi",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mobi"
+          },
+          {
+            "type": "images",
+            "url": "http:\/\/mein-podcast.tld\/feed\/images-png"
+          },
+          {
+            "type": "images",
+            "url": "http:\/\/mein-podcast.tld\/feed\/images-jpg"
+          }
+        ],
+        "torrent": [
+          {
+            "type": "Mp3",
+            "url": "http:\/\/bitlove.tld\/feed\/mp3"
+          },
+          {
+            "type": "M4a",
+            "url": "http:\/\/bitlove.tld\/feed\/m4a"
+          },
+          {
+            "type": "Ogg",
+            "url": "http:\/\/bitlove.tld\/feed\/ogg"
+          },
+          {
+            "type": "Flac",
+            "url": "http:\/\/bitlove.tld\/feed\/flac"
+          },
+          {
+            "type": "Opus",
+            "url": "http:\/\/bitlove.tld\/feed\/opus"
+          }
+        ],
+        "special": [
+          {
+            "name": "Kommentare",
+            "url": "http:\/\/mein-podcast.tld\/feed\/comments"
+          },
+          {
+            "name": "Spezial",
+            "url": "http:\/\/mein-podcast.tld\/feed\/special"
+          }
+        ]
+      }
+    ],
+    "owner": [
+      {
+        "name": "Max Mustermann",
+        "avatar": "http:\/\/mein-podcast.tld\/max-mustermann.jpg",
+        "description": "Max Mustermann ist ein Podcaster der ...",
+        "ownerpage_blog_url": "http:\/\/mein-blog.tld",
+        "ownerpage_podunion_url": "http:\/\/podunion.com\/max-mustermann",
+        "social_twitter": "http:\/\/twitter.com\/max-mustermann",
+        "social_adn": "https:\/\/alpha.app.net\/max-mustermann",
+        "social_facebook": "http:\/\/facebook.com\/max-mustermann",
+        "social_xing": "http:\/\/www.xing.com\/profile\/max-mustermann",
+        "social_googleplus": "http:\/\/google.plus.tld\/1234567",
+        "social_youtube": "https:\/\/youtube.com\/max-mustermann",
+        "members": [
+          {
+            "name": "Maxin Mustermann",
+            "avatar": "http:\/\/mein-podcast.tld\/maxin-mustermann.jpg",
+            "description": "Maxin Mustermann ist eine Podcasterin der ...",
+            "memberpage_blog_url": "http:\/\/mein-blog.tld",
+            "memberpage_podunion_url": "http:\/\/podunion.com\/maxin-mustermann",
+            "social_twitter": "http:\/\/twitter.com\/maxin-mustermann",
+            "social_adn": "https:\/\/alpha.app.net\/maxin-mustermann",
+            "social_facebook": "http:\/\/facebook.com\/maxin-mustermann",
+            "social_xing": "http:\/\/www.xing.com\/profile\/maxin-mustermann",
+            "social_googleplus": "http:\/\/google.plus.tld\/7654321",
+            "social_youtube": "https:\/\/youtube.com\/maxin-mustermann"
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "id": 10,
+        "slug": "dubei",
+        "title": "Dubei",
+        "description": "",
+        "parent": 0,
+        "post_count": 6
+      }
+    ]
+  },
+  "next_url": "http:\/\/localhost:8888\/wordpress-podbe\/podunion-magazin\/"
+}

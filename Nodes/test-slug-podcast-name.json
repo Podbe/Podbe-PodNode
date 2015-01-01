@@ -212,10 +212,10 @@
         "social_youtube": "https:\/\/youtube.com\/max-mustermann",
         "members": [
           {
-            "name": "Maxin Mustermann",
+            "name": "Team: Maxin Mustermann",
             "avatar": "http:\/\/mein-podcast.tld\/maxin-mustermann.jpg",
             "description": "Maxin Mustermann ist eine Podcasterin der ...",
-            "memberpage_blog_url": "http:\/\/mein-blog.tld",
+            "memberpage_blog_url": "http:\/\/maxin-blog.tld",
             "memberpage_podunion_url": "http:\/\/podunion.com\/maxin-mustermann",
             "social_twitter": "http:\/\/twitter.com\/maxin-mustermann",
             "social_adn": "https:\/\/alpha.app.net\/maxin-mustermann",
@@ -223,6 +223,19 @@
             "social_xing": "http:\/\/www.xing.com\/profile\/maxin-mustermann",
             "social_googleplus": "http:\/\/google.plus.tld\/7654321",
             "social_youtube": "https:\/\/youtube.com\/maxin-mustermann"
+          },
+          {
+            "name": "Team: Moritz Mustermann",
+            "avatar": "http:\/\/mein-podcast.tld\/moritz-mustermann.jpg",
+            "description": "Moritz Mustermann ist eine Podcasterin der ...",
+            "memberpage_blog_url": "http:\/\/moritz-blog.tld",
+            "memberpage_podunion_url": "http:\/\/podunion.com\/moritz-mustermann",
+            "social_twitter": "http:\/\/twitter.com\/moritz-mustermann",
+            "social_adn": "https:\/\/alpha.app.net\/moritz-mustermann",
+            "social_facebook": "http:\/\/facebook.com\/moritz-mustermann",
+            "social_xing": "http:\/\/www.xing.com\/profile\/moritz-mustermann",
+            "social_googleplus": "http:\/\/google.plus.tld\/9876543",
+            "social_youtube": "https:\/\/youtube.com\/moritz-mustermann"
           }
         ]
       }

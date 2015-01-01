@@ -3,16 +3,16 @@
   "post": {
     "slug": "test-slug-podcast-name",
     "url": "http:\/\/podbe.de\/test-slug-podcast-name\/",
-    "title": "Test: neu",
+    "title": "Podcastname hier",
     "id": 1,
     "podcast": [
       {
-        "subtitle": "Untertitel",
-        "description": "Zusammenfassung",
+        "subtitle": "Untertitel hier",
+        "description": "Zusammenfassung zum Podcast hier",
         "cover": "http:\/\/www.link-zum-cover.tld\/podcast-cover.png",
         "url": "http:\/\/podcast-url.tld",
         "mp3": "http:\/\/podcast-seed.tld\/001.mp3",
-        "licenses": "Lizensname",
+        "licenses": "Lizensname des Podcasts",
         "licenses-url": "http:\/\/lizensen.tld\/meine-lizenz",
         "email": "mein@podcast-url.tld",
         "flattr": "http:\/\/flattr.com\/123\/meine-podcast",

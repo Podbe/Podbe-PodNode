@@ -2,7 +2,7 @@
   "status": "ok",
   "post": {
     "slug": "test-slug-podcast-name",
-    "url": "http:\/\/localhost:8888\/wordpress-podbe\/podunion-das-podcast-ding\/",
+    "url": "http:\/\/podbe.de\/test-slug-podcast-name\/",
     "title": "Test: neu",
     "id": 1,
     "podcast": [
@@ -227,13 +227,13 @@
     "categories": [
       {
         "id": 10,
-        "slug": "dubei",
-        "title": "Dubei",
-        "description": "",
+        "slug": "podcasting",
+        "title": "Podcasting",
+        "description": "Podcasts die über die Podcastszene berichten",
         "parent": 0,
         "post_count": 6
       }
     ]
   },
-  "next_url": "http:\/\/localhost:8888\/wordpress-podbe\/podunion-magazin\/"
+  "next_url": "podbe.de\/podunion-magazin\/"
 }

@@ -95,7 +95,7 @@
           {
             "type": "audio",
             "format": "mp3",
-            "url": "hhttp:\/\/newz-of-the-world.com\/feed\/mp3",
+            "url": "http:\/\/newz-of-the-world.com\/feed\/mp3",
             "variant": "high"
           },
           {

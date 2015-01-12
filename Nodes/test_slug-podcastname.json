@@ -93,74 +93,118 @@
         "url": "http:\/\/mein-podcast.tld\/feed\/mp3",
         "standard": [
           {
-            "type": "m4a",
-            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-aac"
+            "type": "audio",
+            "format": "mp3",
+            "url": "hhttp:\/\/newz-of-the-world.com\/feed\/mp3",
+            "variant": "high"
           },
           {
-            "type": "alac",
-            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-alac"
+            "type": "audio",
+            "format": "m4a",
+            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-aac",
+            "variant": "high"
           },
           {
-            "type": "oga",
-            "url": "http:\/\/mein-podcast.tld\/feed\/oga"
+            "type": "audio",
+            "format": "alac",
+            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-alac",
+            "variant": "high"
           },
           {
-            "type": "ogg",
-            "url": "http:\/\/mein-podcast.tld\/feed\/ogg"
+            "type": "audio",
+            "format": "oga",
+            "url": "http:\/\/mein-podcast.tld\/feed\/oga",
+            "variant": "high"
           },
           {
-            "type": "webm",
-            "url": "http:\/\/mein-podcast.tld\/feed\/webm"
+            "type": "audio",
+            "format": "ogg",
+            "url": "http:\/\/mein-podcast.tld\/feed\/ogg",
+            "variant": "high"
           },
           {
-            "type": "flac",
-            "url": "http:\/\/mein-podcast.tld\/feed\/flac"
+            "type": "audio",
+            "format": "webm",
+            "url": "http:\/\/mein-podcast.tld\/feed\/webm",
+            "variant": "high"
           },
           {
-            "type": "opus",
-            "url": "http:\/\/mein-podcast.tld\/feed\/opus"
+            "type": "audio",
+            "format": "flac",
+            "url": "http:\/\/mein-podcast.tld\/feed\/flac",
+            "variant": "high"
           },
           {
-            "type": "mka",
-            "url": "http:\/\/mein-podcast.tld\/feed\/mka"
+            "type": "audio",
+            "format": "opus",
+            "url": "http:\/\/mein-podcast.tld\/feed\/opus",
+            "variant": "high"
           },
           {
-            "url": "http:\/\/mein-podcast.tld\/feed\/mp3-low"
+            "type": "audio",
+            "format": "mka",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mka",
+            "variant": "high"
           },
           {
-            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-low"
+            "type": "audio",
+            "format": "mp3",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mp3-low",
+            "variant": "low"
           },
           {
-            "type": "mpg",
-            "url": "http:\/\/mein-podcast.tld\/feed\/mpg-video"
+            "type": "audio",
+            "format": "m4a",
+            "url": "http:\/\/mein-podcast.tld\/feed\/m4a-low",
+            "variant": "low"
           },
           {
-            "type": "mp4",
-            "url": "http:\/\/mein-podcast.tld\/feed\/mp4-video"
+            "type": "video",
+            "format": "mpg",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mpg-video",
+            "variant": "high"
           },
           {
-            "type": "ogv",
-            "url": "http:\/\/mein-podcast.tld\/feed\/ogg-video"
+            "type": "video",
+            "format": "mp4",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mp4-video",
+            "variant": "high"
           },
           {
-            "type": "mkv",
-            "url": "http:\/\/mein-podcast.tld\/feed\/mkv-video"
+            "type": "video",
+            "format": "ogv",
+            "url": "http:\/\/mein-podcast.tld\/feed\/ogg-video",
+            "variant": "high"
+          },
+          {
+            "type": "video",
+            "format": "mkv",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mkv-video",
+            "variant": "high"
           },
           {
             "type": "epub",
-            "url": "http:\/\/mein-podcast.tld\/feed\/epub"
+            "format": "epub",
+            "url": "http:\/\/mein-podcast.tld\/feed\/epub",
+            "variant": ""
           },
           {
             "type": "mobi",
-            "url": "http:\/\/mein-podcast.tld\/feed\/mobi"
+            "format": "images",
+            "url": "http:\/\/mein-podcast.tld\/feed\/mobi",
+            "variant": ""
           },
           {
-            "type": "images",
-            "url": "http:\/\/mein-podcast.tld\/feed\/images-png"
+            "type": "png",
+            "format": "images",
+            "url": "http:\/\/mein-podcast.tld\/feed\/images-png",
+            "variant": ""
           },
           {
-            "type": "images",
-            "url": "http:\/\/mein-podcast.tld\/feed\/images-jpg"
+            "type": "jpg",
+            "format": "images",
+            "url": "http:\/\/mein-podcast.tld\/feed\/images-jpg",
+            "variant": ""
           }
         ],
         "torrent": [

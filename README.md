@@ -35,11 +35,16 @@ Podbe wird deine Metadaten als Json Datei rendern und in einem gestimmten Zeitra
 
 Du kannst z.B auch den <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> nutzen um den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> deines Lieblingspodcasts auf deinem Blog auszugeben. Du musst also nicht erst nach den Feedadressen suchen und benötigst auch keines der zusätzliches PSB Plugins.
 
-##### Und woher bekomme ich den Slug des Podcasts um einen Abbonierbutton auf meinen Blog zu bekommen?
+#### Und woher bekomme ich den Slug des Podcasts um einen Abbonierbutton auf meinen Blog zu bekommen?
 
 **Das ist eigentlich ganz einfach:** dieser entspricht meist dem Namen des Podcast und kannst Du auch über die Url von Podbe herausfinden. Nehmen wir an Du willst den Slug für den Podcast *<a href="http://podunion.com/podunion-podcast/magazin">PodUnion Magazin</a>* herusfinden. Wenn Du nun auf Podbe suchst wirst Du auf die Vorstellungsseite des Podcasts kommen. Die URL heißt: <code>http&#58;//podbe.de/podunion-magazin</code>. Der Slug für deinen Shordcode lautet also **podunion-magazin** :)
 
-Hast Du nun das Plugin <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> für dein Wordpress installiert, kannst Du mittels Shortcode <code>[psb slug="**podunion-magazin**" button="big"]</code> den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> in deinen Blog lagen.
+Hast Du nun das Plugin <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> für dein Wordpress installiert, kannst Du mittels Shortcode <code>[psb slug="**podunion-magazin**" button="big"]</code> den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> in deinen Blog anzeigen lassen.
+
+*P.S. Du kann es schon jetzt testen: Lade dazu die Datei: <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin/blob/master/inc/podbe-nodes_podlove-sub-button-shortcodes.php">podbe-nodes_podlove-sub-button-shortcodes.php</a> herunter. Lade sie in dein Wordpress unter /plugins/ und erstelle eine neue Seite. Geben nun folgenden Code ein:*
+*<code>[psb slug="test-slug-podcastname" button="big"]</code> und du solltest einen Abonnier-Button bekommen. Dieser liest im übrigen das Testfile hier unter Github aus: https://github.com/Podbe/Podbe-V4_PodNode/tree/master/Nodes*
+
+
 
 
 

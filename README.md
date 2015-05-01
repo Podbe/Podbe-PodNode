@@ -17,9 +17,7 @@ Metadaten sind zum Beispiel die Dinge, die der Podcaster am Anfang (als er seine
 Naja - nicht alles ist im Feed. Und das sollte es auch nicht! Z.B. die Verknüpfungen zu sozialen Netzwerken oder die des Contributors, das Avatarbild oder aber auch Bloglinks, Projekte an denen der Podcast teilnimmt oder diese nutzt (Podlove, Auphonic, PodUnion, Hörsuppe...) ... und was es alles noch so in der großen Szene gibt. Auch sollten, aus meiner Sicht nicht alles in einem Feed gequetscht werden. So machen auch nicht alle Metadaten in einem Feed Sinn. Man sollte da also unterscheiden. 
 
 ### OK es fehlt da also etwas im Feed, aber das, was da fehlt, soll da garnicht erst rein? Das ist verwirrend!
-Leider JA! Was da rein muss und was nicht ist sehr fraglich und sollte aus meiner Sicht von einer großen Community diskutiert und deklariert werden. Auch sehe ich eher den Ansatz, dass ein Podcastverzeichnis eher weniger auf XML als auf ein anderes Format zurückgreifen sollte.
-
-Vielleicht gehe ich sogar noch einen Schritt weiter und plädiere dafür, komplet auf XML zu verzichten (Ich sagte vielleicht(!) - hängt immer an der Tagesform meiner selbst ab /&#42;tülüh&#42;/). 
+Leider JA! Was da rein muss und was nicht ist sehr fraglich und sollte aus meiner Sicht von einer großen Community diskutiert und deklariert werden. Auch sehe ich eher den Ansatz, dass ein Podcastverzeichnis eher weniger auf XML als auf ein anderes Format zurückgreifen sollte. Vielleicht gehe ich sogar noch einen Schritt weiter und plädiere dafür, komplet auf XML zu verzichten (Ich sagte vielleicht(!) - hängt immer an der Tagesform meiner selbst ab /&#42;tülüh&#42;/). 
 
 ### Was genau soll denn dann den XML Part ablösen?
 JSON! Einfacher und flexibler. Vor allem hilft es vielen Entwicklern schneller neue Ideen umzusetzen. Metadaten sollten also IMMER auch als Json vorhanden sein. 
@@ -33,15 +31,15 @@ Alllssooo: Du kannst Dich bei Podbe.de registrieren (sobald die Version 4 wieder
 Podbe wird deine Metadaten als Json Datei rendern und in einem gestimmten Zeitrahmen automatisch mit Github syncronisieren. So wirden die Metadaten, deines Podcasts endlich frei und können von Entwicklern angeschaut und für neue Ideen und Entwicklungen verwendet werden.
 
 ### Kann ich auch etwas damit machen, wenn ich kein Entwickler bin?
-**Klar kannst Du!** Ist der Podcast erst einmal auf Github als Json hinterlegt, kann jeder damit etwas anfangen. Du kannst zum Beispiel Werbung für deinen oder andere Podcaster machen. Mit den <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode Shortcodes</a> von Podbe benötigst Du nur noch den **Slug** des geliebten Podcasts und schon kannst du alle Podcasts die auf Podbe gelistet sind auf deinen Blog ausgeben. Du kannst z.B auch den <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> nutzen um den Podlove Subscripe Button deines Lieblingspodcasts auf deinem Blog auszugeben. Du musst also nicht erst nach den Feedadressen suchen und benötigst auch keines der zusätzliches PSB Plugins.
+**Klar kannst Du!** Ist der Podcast erst einmal auf Github als Json hinterlegt, kann jeder damit etwas anfangen. Du kannst zum Beispiel Werbung für deinen oder andere Podcaster machen. Mit den <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode Shortcodes</a> von Podbe benötigst Du nur noch den **Slug** des geliebten Podcasts und schon kannst du alle Podcasts die auf Podbe gelistet sind auf deinen Blog ausgeben. 
+
+Du kannst z.B auch den <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> nutzen um den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> deines Lieblingspodcasts auf deinem Blog auszugeben. Du musst also nicht erst nach den Feedadressen suchen und benötigst auch keines der zusätzliches PSB Plugins.
 
 ##### Und woher bekomme ich den Slug des Podcasts um einen Abbonierbutton auf meinen Blog zu bekommen?
 
-*Das ist eigentlich ganz einfach:* dieser entspricht meist dem Namen des Podcast und kannst Du auch über die Url von Podbe herausfinden. 
+**Das ist eigentlich ganz einfach:** dieser entspricht meist dem Namen des Podcast und kannst Du auch über die Url von Podbe herausfinden. Nehmen wir an Du willst den Slug für den Podcast *<a href="http://podunion.com/podunion-podcast/magazin">PodUnion Magazin</a>* herusfinden. Wenn Du nun auf Podbe suchst wirst Du auf die Vorstellungsseite des Podcasts kommen. Die URL heißt: <code>http&#58;//podbe.de/podunion-magazin</code>. Der Slug für deinen Shordcode lautet also **podunion-magazin** :)
 
-Nehmen wir an Du willst den Slug für den Podcast *<a href="http://podunion.com/podunion-podcast/magazin">PodUnion Magazin</a>* herusfinden. Wenn Du nun auf Podbe suchst wirst Du auf die Vorstellungsseite des Podcasts kommen. Die URL lautet: <code>http&#58;//podbe.de/podunion-magazin</code> der Slug lautet also **podunion-magazin** - gelle :)
-
-Hast Du nun das Plugin <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> für dein Wordpress installiert, kannst Du mittels Shortcode <code>[psb slug="**podunion-magazin**" button="big"]</code> den Subscripe Button in deinen Blog lagen.
+Hast Du nun das Plugin <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode PSB Shortcode</a> für dein Wordpress installiert, kannst Du mittels Shortcode <code>[psb slug="**podunion-magazin**" button="big"]</code> den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> in deinen Blog lagen.
 
 
 

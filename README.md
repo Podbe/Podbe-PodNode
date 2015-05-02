@@ -44,8 +44,20 @@ Hast Du nun das Plugin <a href="https://github.com/Podbe/podbe-nodes-wordpress-p
 *P.S. Du kann es schon jetzt testen: Lade dazu die Datei: <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin/blob/master/inc/podbe-nodes_podlove-sub-button-shortcodes.php">podbe-nodes_podlove-sub-button-shortcodes.php</a> herunter. Lade sie in dein Wordpress unter /plugins/ und erstelle eine neue Seite. Geben nun folgenden Code ein:*
 *<code>[psb slug="test-slug-podcastname" button="big"]</code> und du solltest einen Abonnier-Button bekommen. Dieser liest im übrigen das Testfile hier unter Github aus: https://github.com/Podbe/Podbe-V4_PodNode/tree/master/Nodes*
 
+### OK, Ne... ich habs schon wieder vergessen, wie war das?
+Nun gut, das ganze Thema ist nicht ganz einfach, das gebe ich ja zu ;) Also noch mal:
+- **@Podbe** - das ist ein Podcastverzeichnis in deutscher Sprache und bassiert auf nix anderem (aus hier und da...) als ein WordPress. 
 
+- **@PodbeThemes** - das ist das Design von @Podbe welches extra dafür gebastelt wird um nicht ganz so ohne was daher zu kommen.
 
+- **@PodbeCDN** - da gibt es allerhand Einzelteile die für @Podbe gebastelt wurden um zusätzliche Funktionen wie z.B. den Podcast-PDF-Generator, Podcast-CSV-Generator, Podbe-Print, Podbe-Json-API, auch den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> den Podbe selber hostet und vieles mehr.
 
+- **@PodLabs** - ist das Bastellabor von @Podbe. Dort fallen mir immer mal Kleinigkeiten ein die ich als 1. Idee zusammen hacke und/oder public als Plugins und gar als anderes Zeugs veröffentliche. So auch z.B. die <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode Shortcodes</a>.
 
+- **@PodNodes** - hingegen ist ein Unterkategorie und im großen und ganzen erste einmal ein weiterer Schritt in richtung freie Metadaten.
 
+### Oh Je... OK es heist doch aber PodNodes? Wo aber ist denn bitteschön hier der Knoten?
+Schlicht und ergreifend kann man hier auch von der, wie sie Tim Pritlove so nannte "Matrix" sprechen. Die es noch zu bauen und zu entwickeln gilt. Ein ersten Anfang möchte ich jedoch auch hier machen. 
+
+Dabei werde ich den Podcast Publisher "<a href="https://github.com/eazyliving/firtz">Firtz</a>" als Grundsystem nutzen um daraus ein eigenes Podcastverzeichnis zu entwickeln. Es soll am Ende von "jederman/frau" downloadbar und individuell durch die freien Metadaten von Podbe aufbaubar sein. 
+Mit dem eigentlichen Projektnamen **Firtzknoten** soll dabei ein downloadbares Verzeichnis entstehen, was die Metadaten (Json) von Podbe auslesen kann. Damit kann am Ende "jeder" sein eigenes Podcastverzeichnis erstellen.

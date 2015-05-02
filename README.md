@@ -50,7 +50,7 @@ Nun gut, das ganze Thema ist nicht ganz einfach, das gebe ich ja zu ;) Also noch
 
 - **@PodbeThemes** - das ist das Design von @Podbe welches extra dafür gebastelt wird um nicht ganz so ohne was daher zu kommen.
 
-- **@PodbeCDN** - da gibt es allerhand Einzelteile die für @Podbe gebastelt wurden um zusätzliche Funktionen wie z.B. den Podcast-PDF-Generator, Podcast-CSV-Generator, Podbe-Print, Podbe-Json-API, auch den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> den Podbe selber hostet und vieles mehr.
+- **@PodbeCDN** - da gibt es allerhand Einzelteile die für @Podbe gebastelt wurden um zusätzliche Funktionen wie z.B. den <a href="https://github.com/Podbe/Podbe_V4_CDN/blob/master/Freakshow.pdf">Podcast-PDF-Generator</a>, <a href="https://github.com/Podbe/Podbe_V4_CDN/blob/master/Freakshow-qr.png">Podcast-QR-Generator</a>,  Podcast-CSV-Generator, Podbe-Print, Podbe-Json-API, auch den <a href="http://podlove.org/podlove-subscribe-button/">Podlove Subscripe Button</a> den Podbe selber hostet und vieles mehr.
 
 - **@PodLabs** - ist das Bastellabor von @Podbe. Dort fallen mir immer mal Kleinigkeiten ein die ich als 1. Idee zusammen hacke und/oder public als Plugins und gar als anderes Zeugs veröffentliche. So auch z.B. die <a href="https://github.com/Podbe/podbe-nodes-wordpress-plugin">PodNode Shortcodes</a>.
 

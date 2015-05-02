@@ -60,4 +60,4 @@ Nun gut, das ganze Thema ist nicht ganz einfach, das gebe ich ja zu ;) Also noch
 Schlicht und ergreifend kann man hier auch von der, wie sie Tim Pritlove so nannte "Matrix" sprechen. Die es noch zu bauen und zu entwickeln gilt. Ein ersten Anfang möchte ich jedoch auch hier machen. 
 
 Dabei werde ich den Podcast Publisher "<a href="https://github.com/eazyliving/firtz">Firtz</a>" als Grundsystem nutzen um daraus ein eigenes Podcastverzeichnis zu entwickeln. Es soll am Ende von "jederman/frau" downloadbar und individuell durch die freien Metadaten von Podbe aufbaubar sein. 
-Mit dem eigentlichen Projektnamen **Firtzknoten** soll dabei ein downloadbares Verzeichnis entstehen, was die Metadaten (Json) von Podbe auslesen kann. Damit kann am Ende "jeder" sein eigenes Podcastverzeichnis erstellen.
+Mit dem eigentlichen Projektnamen **<a href="https://twitter.com/FirtzKnoten">Firtzknoten</a>** soll dabei ein downloadbares Verzeichnis entstehen, was die Metadaten (Json) von Podbe auslesen kann. Damit kann am Ende "jeder" sein eigenes Podcastverzeichnis erstellen.

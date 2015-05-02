@@ -26,7 +26,7 @@ JSON! Einfacher und flexibler. Vor allem hilft es vielen Entwicklern schneller n
 Nun vielleicht vom Podlove Publisher selber. Man kann natürlich sie auch selber erstellen, wenn man z.B kein Wordpress nutzt oder aber, man geht zu @Podbe - Richtig, da war doch noch was :)
 
 ### Und wie soll das funktionieren?
-Alllssooo: Du kannst Dich bei Podbe.de registrieren (sobald die Version 4 wieder online ist!) und deinen Podcast eintragen. Hast Du deine Seite erstellt und alle wichtigen Daten dem Formular übergeben, dann kannst Du die Metadaten deines Podcasts über Beutzerseite freigeben. Dazu must Du selber deinen Podcast über die Schaltfläche freigeben (du kannst also selber wählen ob das für dich in Frage kommt!).
+Alllssooo: Du kannst Dich bei Podbe.de registrieren (sobald die Version 4 wieder online ist!) und deinen Podcast eintragen. Hast Du deine Seite erstellt und alle wichtigen Daten dem Formular übergeben, dann kannst Du die Metadaten deines Podcasts über die Benutzerseite freigeben. Dazu must Du selber deinen Podcast über die Schaltfläche freigeben (du kannst also selber wählen ob das für dich in Frage kommt!).
 
 Podbe wird deine Metadaten als Json Datei rendern und in einem gestimmten Zeitrahmen automatisch mit Github syncronisieren. So wirden die Metadaten, deines Podcasts endlich frei und können von Entwicklern angeschaut und für neue Ideen und Entwicklungen verwendet werden.
 

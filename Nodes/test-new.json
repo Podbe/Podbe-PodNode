@@ -92,44 +92,44 @@
       {
         "type": "video",
         "format": "mpg",
-        "variant": "high",
-        "url": "http:\/\/cre.fm\/feed\/m4a\/"
+        "url": "http:\/\/cre.fm\/feed\/m4a\/",
+        "variant": "high"
       },
       {
         "type": "audio",
         "format": "mp3",
-        "variant": "medium",
-        "url": "http:\/\/feeds.podtrac.com\/013SpaPV1GjT"
+        "url": "http:\/\/feeds.podtrac.com\/013SpaPV1GjT",
+        "variant": "medium"
       },
       {
         "type": "audio",
         "format": "mp3",
-        "variant": "low",
-        "url": "http:\/\/lalal.de"
+        "url": "http:\/\/lalal.de",
+        "variant": "low"
       },
       {
         "type": "mix",
         "format": "oga",
-        "variant": "high",
-        "url": "http:\/\/lalal.de"
+        "url": "http:\/\/lalal.de",
+        "variant": "high"
       },
       {
         "type": "mix",
         "format": "mp3",
-        "variant": "medium",
-        "url": "http:\/\/lalal.de"
+        "url": "http:\/\/lalal.de",
+        "variant": "medium"
       },
       {
         "type": "torrent",
         "format": "oga",
-        "variant": "medium",
-        "url": "http:\/\/lalal.de"
+        "url": "http:\/\/lalal.de",
+        "variant": "medium"
       },
       {
         "type": "torrent",
         "format": "ogg",
-        "variant": "low",
-        "url": "http:\/\/lalal.de"
+        "url": "http:\/\/lalal.de",
+        "variant": "low"
       }
     ],
     "contributors": [

@@ -1,0 +1,279 @@
+{
+  "status": "ok",
+  "podbe": {
+    "url": "http:\/\/localhost:8888\/wordpress-podbe4\/podcast\/podunion-magazin\/",
+    "slug": "podunion-magazin",
+    "page": "Magazin Podcast"
+  },
+  "podcast": {
+    "titel": "hubicast",
+    "subtitel": "Mein toller Podcast",
+    "summery": "Dies ist eine Zusammenfassung des Podcasts den ich hier mache. Dabei geht es um dies und das und auch noch andere Dinge. Daher solltest Du diesen Podcast auf jeden Falle h\u00f6ren denn der ist so ziemlich krisp. Du k\u00f6nntest auch andere h\u00f6ren. Aber ob Du es \u00fcberleben kannst, wenn Du ihn nicht h\u00f6rst?",
+    "url": "http:\/\/pode.de",
+    "poster": "http:\/\/podunion.com\/wordpress\/wp-content\/uploads\/2012\/09\/Logo-Podcast-Magazin-300.png",
+    "mail": "info@test.de",
+    "license": {
+      "name": "CC BY-NC-SA",
+      "url": "http:\/\/cc.de\/cc-by-sa-nc-license"
+    },
+    "social": [
+      {
+        "name": "github",
+        "url": "https:\/\/github.de\/pla.de"
+      },
+      {
+        "name": "facebook",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "twitter",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "youtube",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "flickr",
+        "url": "https:\/\/test.de"
+      }
+    ],
+    "directorys": [
+      {
+        "name": "itunes",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "podlist",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "soundcloud",
+        "url": "https:\/\/test.de"
+      }
+    ],
+    "projects": [
+      {
+        "name": "podunion",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "hoersuppe",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "shownotes",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "xenim",
+        "url": "https:\/\/test.de"
+      }
+    ],
+    "payments": [
+      {
+        "name": "flattr",
+        "url": "https:\/\/test.de"
+      },
+      {
+        "name": "paypal",
+        "url": "https:\/\/paypal.de"
+      },
+      {
+        "name": "patreon",
+        "url": "https:\/\/patreon.de"
+      },
+      {
+        "name": "amazon",
+        "url": "http:\/\/lalal.de"
+      }
+    ],
+    "feeds": [
+      {
+        "type": "video",
+        "format": "mpg",
+        "variant": "high",
+        "url": "http:\/\/cre.fm\/feed\/m4a\/"
+      },
+      {
+        "type": "audio",
+        "format": "mp3",
+        "variant": "medium",
+        "url": "http:\/\/feeds.podtrac.com\/013SpaPV1GjT"
+      },
+      {
+        "type": "audio",
+        "format": "mp3",
+        "variant": "low",
+        "url": "http:\/\/lalal.de"
+      },
+      {
+        "type": "mix",
+        "format": "oga",
+        "variant": "high",
+        "url": "http:\/\/lalal.de"
+      },
+      {
+        "type": "mix",
+        "format": "mp3",
+        "variant": "medium",
+        "url": "http:\/\/lalal.de"
+      },
+      {
+        "type": "torrent",
+        "format": "oga",
+        "variant": "medium",
+        "url": "http:\/\/lalal.de"
+      },
+      {
+        "type": "torrent",
+        "format": "ogg",
+        "variant": "low",
+        "url": "http:\/\/lalal.de"
+      }
+    ],
+    "contributors": [
+      {
+        "name": "maxi",
+        "surname": "Huberto",
+        "avatar": "mail",
+        "avatar_url": "https:\/\/sendegate.de\/user_avatar\/sendegate.de\/mccouman\/120\/984_1.png",
+        "avatar_mail": "mccouman@wikibyte.org",
+        "description": "laber",
+        "social": [
+          {
+            "network": "blog",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "facebook",
+            "url": "http:\/\/facebook.de\/was.weisich"
+          },
+          {
+            "network": "twitter",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "adn",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "gplus",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "youtube",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "xing",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "flickr",
+            "url": "http:\/\/test.de"
+          },
+          {
+            "network": "github",
+            "url": "http:\/\/lalal.de"
+          }
+        ]
+      },
+      {
+        "name": "Niemand",
+        "surname": "hutest",
+        "avatar": "url",
+        "avatar_url": "http:\/\/www.gravatar.com\/avatar\/71839f731e75783d5b7efe3be5d21b2a?d=&s=150",
+        "avatar_mail": "mccouman@wikibyte.org",
+        "description": "ding dang dong\r\nhuhu",
+        "social": [
+          {
+            "network": "blog",
+            "url": "http:\/\/bloh.de"
+          },
+          {
+            "network": "youtube",
+            "url": "https:\/\/www.youtube.com\/user\/SemperVideo\/videos"
+          }
+        ]
+      },
+      {
+        "name": "Niemand",
+        "surname": "",
+        "avatar": "url",
+        "avatar_url": "http:\/\/laber.de",
+        "avatar_mail": "",
+        "description": "huhuhuhuhuhuhuhuh",
+        "social": [
+          {
+            "network": "flickr",
+            "url": "http:\/\/flickirgendwas.de"
+          }
+        ]
+      }
+    ],
+    "maps": {
+      "address": "Eisenach, Deutschland",
+      "lat": "50.9795715",
+      "lng": "10.31468719999998"
+    },
+    "categorys": {
+      "standard": {
+        "term_id": 9,
+        "name": "Comedy",
+        "slug": "comedy",
+        "term_group": 0,
+        "term_taxonomy_id": 9,
+        "taxonomy": "podcasts_category",
+        "description": "Comedy gelaber",
+        "parent": 0,
+        "count": 6,
+        "object_id": 34,
+        "filter": "raw"
+      },
+      "special": [
+        {
+          "term_id": 23,
+          "name": "Podcasts von und mit Frauen",
+          "slug": "podcasts-mit-frauen",
+          "term_group": 0,
+          "term_taxonomy_id": 23,
+          "taxonomy": "special_podcasts_category",
+          "description": "",
+          "parent": 0,
+          "count": 3,
+          "object_id": 34,
+          "filter": "raw"
+        },
+        {
+          "term_id": 24,
+          "name": "Podcast Hero (Solocaster)",
+          "slug": "podcasts-im-solo",
+          "term_group": 0,
+          "term_taxonomy_id": 24,
+          "taxonomy": "special_podcasts_category",
+          "description": "",
+          "parent": 0,
+          "count": 6,
+          "object_id": 34,
+          "filter": "raw"
+        },
+        {
+          "term_id": 25,
+          "name": "Podcaster im Team",
+          "slug": "podcasts-im-team",
+          "term_group": 0,
+          "term_taxonomy_id": 25,
+          "taxonomy": "special_podcasts_category",
+          "description": "",
+          "parent": 0,
+          "count": 1,
+          "object_id": 34,
+          "filter": "raw"
+        }
+      ]
+    }
+  },
+  "previous_url": "http:\/\/localhost:8888\/wordpress-podbe4\/podcast\/test-podcast\/",
+  "next_url": "http:\/\/localhost:8888\/wordpress-podbe4\/podcast\/coolcast\/"
+}
